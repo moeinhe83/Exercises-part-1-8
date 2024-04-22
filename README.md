@@ -6,7 +6,7 @@ Programming Language ===> Python
 
 Program description ===> The Eighth Exercise
 
-Example ===> Write A Program That Takes Three Numbers From The User And Adds Them, With The Condition That If Two Of The Numbers Are Equal, It Will Set The Sum To Zero, That Is, If The Numbers Are 7, 7, And 8, It Will Declare the sum to be zero.
+Example ===> Write A Program That Takes Three Numbers From The User And Adds Them, With The Condition That If Two Of The Numbers Are Equal, It Will Set The Sum To Zero, That Is, If The Numbers Are 7, 7, And 8, It Will Declare the sum to be Zero.
 
 Description Of Files:
 
